@@ -6,6 +6,7 @@ const Header = () => {
         <Link to="/">홈</Link>
         <Link to="page1">페이지1</Link>
         <Link to="page2">페이지2</Link>
+        <Link to="page3">페이지3</Link>
     </div>);
 }
  
